@@ -24,8 +24,10 @@ This tutorial outlines the post-install configuration of the open-source help de
 - Create Role
 - Create Departments
 - Create Teams
-- Item 4
-- Item 5
+- Create Agents
+- Create Users
+- Configure Service Level Agreemnets(SLA)
+- dtem 7
 
 <h2>Configuration Steps</h2>
 
@@ -54,13 +56,29 @@ Create a team. Admin Panel then click on Agents> Teams> Add New Team. Name team 
 <br />
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/sDmanlc.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-Now allow anyone to create tickets. Stay in Admin Panel click Settings> Authen
+Next step is creating Agents in the system. Stay in Admin Panel click on Agents> Add New Agent. Create a name, email, and username. Then set password. Uncheck password reset email and require password change at next login. click Set
 </p>
 <br />
 
+<p>
+<img src="https://i.imgur.com/3yFbk9x.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+<p>
+Now create the users. Click on Agent Panel> Users> Add Users. Create two users.
+</p>
+<br />
+
+<p>
+<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+<p>
+Configure the SLAs. Go back to the Admin Panel> Manage> SLA> Add New SLA Plan. Creat 3 different SLA plans. Sev-A, Sev-B, Sev-C
+</p>
+<br />
+                                                                                                 
 <p>
 <img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
@@ -69,10 +87,11 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 </p>
 <br />
 
-<p>
+ <p>
 <img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
 Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
 </p>
 <br />
+                                                                                                

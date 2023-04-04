@@ -83,7 +83,7 @@ Configure the SLAs. Go back to the Admin Panel> Manage> SLA> Add New SLA Plan. C
 <img src="https://i.imgur.com/LeSX8IQ.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-Configure Help Topics. Go to Admin Panel> Manage> Help Topics> Add New Help Topic. Create four topics. Business Critical Outage, Equipment Request, Personal Computer Issues, Password Reset. Post Install Complete,
+Configure Help Topics. Go to Admin Panel> Manage> Help Topics> Add New Help Topic. Create four topics. Business Critical Outage, Equipment Request, Personal Computer Issues, Password Reset. Post Install Complete
 </p>
 <br />
 
